@@ -1,0 +1,21 @@
+.back {
+    min-height: 100vh;
+}
+
+.main {
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 40vh;
+    max-width: 130px;
+}
+
+.hex-form {
+    text-align: center;
+}
+
+.rgb-block {
+    margin-top: 5px;
+    padding-top: 10px;
+    border: solid 1px black;
+    text-align: center;
+}
