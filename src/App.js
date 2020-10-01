@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {Convertor} from "./HexConvertor";
+import {Convertor} from "./Convertor";
 
 function App() {
   return (

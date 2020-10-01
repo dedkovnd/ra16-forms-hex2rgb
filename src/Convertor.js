@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import {ScreenColor} from "./ColorsScreen";
+import {ScreenColor} from "./ScreenColor";
 
 export function Convertor(props) {
     const [form, setForm] = useState({
